@@ -1,0 +1,7 @@
+This aim is to have some fun with the Deezer (great music streaming service) API.
+This is a Memory game with album covers.
+
+Tools/Api : 
+- JQuery
+- Twitter bootstrap
+- Deezer API (javascript SDK)
